@@ -1,4 +1,7 @@
-# CSX42: Assignment 1
+# Implement a program for word rotation and calculate the required metrics given below:
+ 1. Average Words Per Sentence
+ 2. Average Word Length
+ 
 ## Name: Rashmi A. Badadale
 
 -----------------------------------------------------------------------
@@ -42,18 +45,4 @@ Citations:
  1. For formatting the output. 
  
 https://www.programiz.com/java-programming/examples/round-number-decimal 
-
-
------------------------------------------------------------------------
-### Academic Honesty statement:
------------------------------------------------------------------------
-
-"I have done this assignment completely on my own. I have not copied
-it, nor have I given my solution to anyone else. I understand that if
-I am involved in plagiarism or cheating an official form will be
-submitted to the Academic Honesty Committee of the Watson School to
-determine the action that needs to be taken. "
-
-Date: [June 10, 2020]
-
 
